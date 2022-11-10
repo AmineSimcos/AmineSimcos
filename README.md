@@ -26,3 +26,21 @@ Vim, Linux, Bash, command line, tmux
 AmineSimcos/AmineSimcos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<a href="mailto:aminebaich116@gmail.com">
+    <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/mohammed-amine-ba%C3%AFch-961825214/">
+    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+</a>
+<!---
+<a href="https://paypal.me/dnguy38">
+    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
+</a>
+--->
+
+<a href="https://www.instagram.com/mohamine.bch/">
+    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+</a>
+
